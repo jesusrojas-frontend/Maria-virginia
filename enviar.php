@@ -49,9 +49,9 @@ if( !$error ) {
 <html lang="es">
 <head>
 	<meta charset="utf-8">
-	<title>Juan Pérez González / Diseño y desarrollo web</title>
+	<title></title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
-	<meta name="author" content="Francisco Aguilera G. - http://franciscoamk.com">
+	<meta name="author" content="Jesus Rojas. - http://jesuseru.tk">
 	
 	<link rel="stylesheet" href="style.css" >
 	
@@ -62,8 +62,8 @@ if( !$error ) {
 	<section id="main-header" class="container cf">
 		
 		<a class="logo-header" href="index.html" title="Inicio">
-			<span class="logo"><img src="img/logo.png" alt="logo" width="306" height="37"></span>
-			<span class="slogan">Diseño y Desarrollo Web</span>
+			<span class="logo">Logo</span>
+			<span class="slogan">slogan</span>
 		</a><!-- /#logo-header -->
 		
 		<span class="menu-trigger"><img src="img/menu-responsive.svg" alt="Abrir menú" /></span>
@@ -71,9 +71,10 @@ if( !$error ) {
 		<nav id="main-menu" role="navigation" class="closed">
 			<ul>
 				<li><a href="index.html">Inicio</a></li>
-				<li><a href="servicios.html">Servicios</a></li>
+				<li><a href="servicios.html">Actividades</a></li>
 				<li><a href="portafolio.html">Portafolio</a></li>
-				<li><a href="contacto.html">Contacto</a></li>
+				<li><a href="grupo.html">Integrantes</a></li>
+				<li class="featured"><a href="contacto.html">Contacto</a></li>
 			</ul>
 		</nav><!-- /#main-menu -->
 		
@@ -89,8 +90,7 @@ if( !$error ) {
 					
 					<h1>Contacto</h1>
 					
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut massa non ipsum<br />
-					fermentum rhoncus non vel neque. Phasellus varius feugiat purus vel sodales. </p>
+					<p>Una especie de saludo</p>
 				
 				</div>
 			</header><!-- /.page-header -->
@@ -139,7 +139,7 @@ if( !$error ) {
 		
 		<div class="footer-call-to-action">
 			
-			<p class="container">¿Estás listo para comenzar con tu proyecto de diseño web? <a href="contacto.html" class="btn">Trabajemos juntos</a></p>
+			<p class="container">¿Tienes algun problema con tu equipo y no lo puedes resolver? <a href="contacto.html" class="btn">Contactanos</a></p>
 			
 		</div><!-- /.footer-call-to-action -->
 		
@@ -152,9 +152,10 @@ if( !$error ) {
 			<nav id="footer-menu">
 				<ul>
 					<li><a href="index.html">Inicio</a></li>
-					<li><a href="servicios.html">Servicios</a></li>
+					<li><a href="servicios.html">Actividades</a></li>
 					<li><a href="portafolio.html">Portafolio</a></li>
 					<li><a href="contacto.html">Contacto</a></li>
+					<li><a href="grupo.html">Integrantes</a></li>
 				</ul>
 			</nav><!-- /#footer-menu -->
 			
